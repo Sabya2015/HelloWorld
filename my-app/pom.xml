@@ -8,6 +8,14 @@
   <name>my-app</name>
   <url>http://maven.apache.org</url>
 
+<distributionManagement>
+	<repository>
+		<id>releases</id>
+		<name>Maven Internal Repo</name>
+		<url>http://localhost:8081/#admin/repository/repositories:maven-releases</url>	
+	</repository>
+</distributionManagement>
+
   <properties>
       <!-- This property will be set by the Maven Dependency plugin -->
       <annotatedJdk>${org.checkerframework:jdk8:jar}</annotatedJdk>
