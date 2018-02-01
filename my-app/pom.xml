@@ -12,7 +12,7 @@
 	<repository>
 		<id>releases</id>
 		<name>Maven Internal Repo</name>
-		<url>http://localhost:8081/#admin/repository/repositories:maven-releases</url>	
+		<url>http://192.168.0.3:8081/repository/maven-releases</url>	
 	</repository>
 </distributionManagement>
 
