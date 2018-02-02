@@ -12,7 +12,7 @@
 	<repository>
 		<id>hostedrepo1</id>
 		<name>hostedrepo1</name>
-		<url>http://localhost:8081/repository/hostedrepo/</url>	
+		<url>http://localhost:8081/repository/hostedrepo1/</url>	
 	</repository>
 </distributionManagement>
 
