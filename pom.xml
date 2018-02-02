@@ -14,11 +14,11 @@
 		<name>hostedrepo1</name>
 		<url>http://localhost:8081/repository/hostedrepo1/</url>	
 	</repository>
-	    <snapshotRepository>
-        <id>my-snapshots1</id>
-        <name>my-snapshots1</name>
-        <url>http://localhost:8081/repository/hostedrepo1/my-snapshots1/</url>
-        <layout>default</layout>
+    <snapshotRepository>
+		<id>my-snapshots1</id>
+		<name>my-snapshots1</name>
+		<url>http://localhost:8081/repository/hostedrepo1/my-snapshots1/</url>
+		<layout>default</layout>
     </snapshotRepository>
 </distributionManagement>
 
