@@ -10,8 +10,8 @@
 
 <distributionManagement>
 	<repository>
-		<id>hostedrepo</id>
-		<name>hostedrepo</name>
+		<id>hostedrepo1</id>
+		<name>hostedrepo1</name>
 		<url>http://localhost:8081/repository/hostedrepo/</url>	
 	</repository>
 </distributionManagement>
