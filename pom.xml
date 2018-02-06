@@ -20,8 +20,15 @@
 		<url>http://localhost:8081/repository/hostedrepo1/my-snapshots1/</url>
 		<layout>default</layout>
     </snapshotRepository>
-</distributionManagement>
-
+</distributionManagement> 
+<!-- 
+<distributionManagement>
+    <snapshotRepository>
+        <id>snapshots</id>
+        <name>U6022631-TPL-A-snapshots</name>
+        <url>http://localhost:8081/artifactory/libs-snapshot</url>
+    </snapshotRepository>
+</distributionManagement> -->
   <properties>
       <!-- This property will be set by the Maven Dependency plugin -->
       <annotatedJdk>${org.checkerframework:jdk8:jar}</annotatedJdk>
