@@ -1,5 +1,5 @@
 
-Test Web Hook1
+Test Web Hook2
 
 # A simple, minimal Maven example: hello world
 
